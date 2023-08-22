@@ -1,6 +1,6 @@
 # British-Airways-Projects 
 
- This repo is for the task been given by British Airways internship
+    This repo is for the task been given by British Airways internship
 
 ## Task 1: Web scraping
     Scrape and analyse customer review data to uncover findings for British Airways.
